@@ -5,6 +5,37 @@
     {
       "type": "npm",
       "script": "start",
+      "path": "src/front/web-client",
+      "problemMatcher": [],
+      "label": "npm: start - src/front/web-client",
+      "detail": "ng serve"
+    },
+    {
+      "type": "npm",
+      "script": "lint",
+      "path": "src/front/web-client",
+      "problemMatcher": [],
+      "label": "npm: lint - src/front/web-client",
+      "detail": "ng lint"
+    },
+    {
+      "type": "npm",
+      "script": "lint-fix",
+      "path": "src/front/web-client",
+      "problemMatcher": [],
+      "label": "npm: lint auto fix - src/front/web-client",
+      "detail": "ng lint-fix"
+    },
+    {
+      "type": "npm",
+      "script": "generate-api-client",
+      "path": "src/front/web-client",
+      "problemMatcher": [],
+      "label": "Generate nswag api client"
+    },
+    {
+      "type": "npm",
+      "script": "start",
       "isBackground": true,
       "problemMatcher": {
         "owner": "typescript",
