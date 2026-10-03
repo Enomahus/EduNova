@@ -1,0 +1,6 @@
+{
+  "apiUrl": "http://localhost:44100",
+  "googleClientId": "YOUR_GOOGLE_CLIENT_ID",
+  "facebookClientId": "YOUR_FACEBOOK_CLIENT_ID",
+  "microsoftClientId": "YOUR_MICROSOFT_CLIENT_ID"
+}

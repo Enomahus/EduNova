@@ -1,0 +1,6 @@
+{
+  "apiUrl": "#{Service__Server}",
+  "googleClientId": "#{GoogleAuth__ClientId}",
+  "microsoftClientId": "#{MicrosoftAuth__ClientId}",
+  "facebookClientId": "#{FacebookAuth__ClientId}"
+}
