@@ -1,0 +1,19 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Backend/00-WebApi/00-WebApi.csproj" Id="3582f5b3-eb6e-4de0-889a-f24d29e544ac" />
+    <Project Path="src/Backend/01-ServicesConfiguration/01-ServicesConfiguration.csproj" Id="54cd707e-f82e-4812-9f35-f6be67484c5e" />
+    <Project Path="src/Backend/10-Application/10-Application.csproj" Id="e7129411-64d3-4b3c-9554-98cc23081443" />
+    <Project Path="src/Backend/11-Application.Features/11-Application.Features.csproj" Id="b3c64d0e-b7e9-4664-8ad5-3edccd109b11" />
+    <Project Path="src/Backend/12-Application.Common/12-Application.Common.csproj" Id="5f71216f-ddf3-49b1-b422-b8f2b3888167" />
+    <Project Path="src/Backend/12-Application.Ressources/12-Application.Ressources.csproj" Id="c44cbae2-d96b-46d9-bf79-cb5db7faf0bf" />
+    <Project Path="src/Backend/20-Infrastructure/20-Infrastructure.csproj" Id="df1028df-1119-4109-89ad-12cd80d67fc6" />
+    <Project Path="src/Backend/21-Infrastructure.Persistence/21-Infrastructure.Persistence.csproj" Id="bad04435-a861-4996-a12a-46c11d24af82" />
+    <Project Path="src/Backend/22-Infrastructure.Persistence.MariaDb/22-Infrastructure.Persistence.MariaDb.csproj" Id="2fd380e9-bc54-4012-a26d-92ac0bcac112" />
+    <Project Path="src/Backend/23-Infrastructure.Persistence.File/23-Infrastructure.Persistence.File.csproj" Id="5340f06d-7a31-4409-89f2-97d4f80820fa" />
+    <Project Path="src/Backend/24-Infrastructure.ExternalAuth/24-Infrastructure.ExternalAuth.csproj" Id="c3b1dc3c-1f8b-4a35-977d-fd9407e07680" />
+    <Project Path="src/Backend/99-Tools/99-Tools.csproj" Id="274c2796-0173-4939-9991-ed3c77745bdb" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Application.UnitTests/Application.UnitTests.csproj" Id="de6221fd-ee9b-44cc-85a8-5d0c68212040" />
+  </Folder>
+</Solution>

@@ -46,7 +46,7 @@
       "driver": "MSSQL",
       "name": "EduNova local",
       "database": "EdunovaDb",
-      "username": "sa",
+      "username": "root",
       "password": "@urelle20!4"
     }
   ]

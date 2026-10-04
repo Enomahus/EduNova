@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MariaDb": "Server=localhost;Database=EdunovaDb;User=root;Password=@urelle20!4;Port=41600;"
+  }
+}
